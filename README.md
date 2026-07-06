@@ -388,13 +388,13 @@ aws s3 ls s3://zen-pharma-terraform-state-YOUR-GITHUB-USERNAME
 
 ### 6.1 Fork the Repository
 
-1. Go to `github.com/your-github-username/zen-infra`
+1. Go to `github.com/your-github-username/infra`
 2. Click **Fork** (top right)
 3. Select your account as the destination
 4. Clone your fork locally:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/zen-infra.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/infra.git
 cd zen-infra
 ```
 
