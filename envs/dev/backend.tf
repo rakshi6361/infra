@@ -4,6 +4,6 @@ terraform {
     key          = "envs/dev/terraform.tfstate"
     region       = "us-east-1"
     encrypt      = true
-    use_lockfile = true   # S3 native lockk (Terraform >= 1.11)
+    use_lockfile = true   # S3 native loc (Terraform >= 1.11)
   }
 }
